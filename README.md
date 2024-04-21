@@ -10,7 +10,7 @@
 - 用3*20的結構對圖先關閉，之後開啟
 - 連通區域標記(4-連接)
 - 找出矩形，並選出面積大小和長寬比相似於車牌的區域
-![結果圖](https://github.com/sgoina/license-detect/blob/main/example_img/license.jpg)
+![車牌圖](https://github.com/sgoina/license-detect/blob/main/example_img/license.jpg)
 
 ### 二、字元切割
 - 轉成灰階影像
@@ -20,3 +20,5 @@
 
 ![結果圖](https://github.com/sgoina/license-detect/blob/main/example_img/result.jpg)
 
+### 遇到問題及解決辦法
+  詳細請看[pdf](https://github.com/sgoina/license-detect/blob/main/%E5%BD%B1%E5%83%8F%E8%99%95%E7%90%86%E5%B0%8E%E8%AB%96-%E8%BB%8A%E7%89%8C%E5%81%B5%E6%B8%AC.pdf)
